@@ -1,0 +1,4 @@
+[2025-07-24 10:39:23] Controllo stato ssh.service eseguito con successo.
+[2025-07-24 10:40:32] Controllo stato ssh.service eseguito con successo.
+[2025-07-24 10:40:32] Controllo porta 22: attiva.
+[2025-07-24 10:40:32] Lettura sshd_config eseguita con successo.
